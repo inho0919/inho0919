@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <!--<h3 align="center">--> <h3><b>🛠 Tech Stack 🛠</b></h3>
-</br>
+
 <!-- <p align="center"> -->
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
