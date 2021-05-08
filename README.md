@@ -1,4 +1,4 @@
-[![Inho's GitHub stats](https://github-readme-stats.vercel.app/api?username=inho0919)](https://github.com/inho0919/github-readme-stats)
+[![Inho's GitHub stats](https://github-readme-stats.vercel.app/api?username=inho0919&show_icons=true&theme=tokyonight)](https://github.com/inho0919/github-readme-stats)
 
 ### Education
 - Gwangnam Highschool (03.2011 - 02.2014)
