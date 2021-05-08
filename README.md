@@ -1,6 +1,9 @@
-### Hi there 👋
+##  Inho
 
-**inho0919/inho0919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Profile
+- Gwangnam Highschool (03.2011 - 02.2014)
+- Kangwon National University (03.2015 - Present)
+ : Computer Engineering / German Literature
 
 Here are some ideas to get you started:
 
