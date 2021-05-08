@@ -1,4 +1,3 @@
-##  Inho
 
 ### Profile
 - Gwangnam Highschool (03.2011 - 02.2014)
