@@ -4,6 +4,11 @@
 - Kangwon National University (03.2015 - Present)
  : Computer Engineering / German Literature
 
+### Intern
+- Softzen (06.2019 - 08.2019)
+- KIST (12.2019 - 02.2020)
+- 1778Tech (12.2020 - 03.2021)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
