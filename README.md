@@ -37,7 +37,7 @@
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=003545&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=Android&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 
 
 
