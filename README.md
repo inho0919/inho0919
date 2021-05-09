@@ -6,6 +6,8 @@
 <p>
 <p>
 
+---
+ 
 <h3><b>&#128187; Internship</b></h3>
  &nbsp; - Softzen (06.2019 - 08.2019)
 <br>
@@ -15,6 +17,8 @@
 <p>
 <p>
 
+---
+
 <h3><b>&#128215; Language</b></h3>
  &nbsp; - Korean
 <br>
@@ -23,6 +27,8 @@
  &nbsp; - Deutsch
 <p>
 <p>
+
+---
 
 <h3><b>&#128296; Tech Stack</b></h3>
 <p>
