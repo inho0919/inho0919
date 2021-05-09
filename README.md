@@ -36,7 +36,8 @@
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black"/></a>&nbsp
+<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> 
 
 
 
