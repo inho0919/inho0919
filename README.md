@@ -20,11 +20,11 @@
 ---
 
 <h3><b>&#128215; Language</b></h3>
- &nbsp; - Korean
+ &nbsp; - &#127472;&#127479;
 <br>
- &nbsp; - English
+ &nbsp; - &#127482;&#127480;
 <br>
- &nbsp; - Deutsch
+ &nbsp; - &#127465;&#127466;
 <p>
 <p>
 
