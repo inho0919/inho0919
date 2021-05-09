@@ -1,19 +1,34 @@
 <h3><b>&#127891; Education</b></h3>
 - Gwangnam Highschool (03.2011 - 02.2014)
+<p>
 - Kangwon National University (03.2015 - Present)
  : Computer Engineering / German Literature
 
+<p>
+<p>
+
 <h3><b>&#128187; Internship</b></h3>
 - Softzen (06.2019 - 08.2019)
+<p>
 - KIST (12.2019 - 02.2020)
+<p>
 - 1778Tech (12.2020 - 03.2021)
+
+<p>
+<p>
 
 <h3><b>&#128215; Language</b></h3>
 - Korean
+<p>
 - English
+<p>
 - Deutsch
 
+<p>
+<p>
+
 <h3><b>&#128296; Tech Stack</b></h3>
+<p>
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
