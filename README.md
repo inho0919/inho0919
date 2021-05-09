@@ -1,26 +1,26 @@
 <h3><b>&#127891; Education</b></h3>
-- Gwangnam Highschool (03.2011 - 02.2014)
+ &nbsp; - Gwangnam Highschool (03.2011 - 02.2014)
 <br>
-- Kangwon National University (03.2015 - Present)
- : Computer Engineering / German Literature
+ &nbsp; - Kangwon National University (03.2015 - Present)
+  &nbsp; &nbsp; : Computer Engineering / German Literature
 <p>
 <p>
 
 <h3><b>&#128187; Internship</b></h3>
-- Softzen (06.2019 - 08.2019)
+ &nbsp; - Softzen (06.2019 - 08.2019)
 <br>
-- KIST (12.2019 - 02.2020)
+ &nbsp; - KIST (12.2019 - 02.2020)
 <br>
-- 1778Tech (12.2020 - 03.2021)
+ &nbsp; - 1778Tech (12.2020 - 03.2021)
 <p>
 <p>
 
 <h3><b>&#128215; Language</b></h3>
-- Korean
+ &nbsp; - Korean
 <br>
-- English
+ &nbsp; - English
 <br>
-- Deutsch
+ &nbsp; - Deutsch
 <p>
 <p>
 
@@ -51,9 +51,7 @@
 <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black"/></a>&nbsp
 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> 
 
-
-
-<p>
-<p>
+<br>
+<br>
  
 [![Inho's GitHub stats](https://github-readme-stats.vercel.app/api?username=inho0919&show_icons=true&theme=tokyonight)](https://github.com/inho0919/github-readme-stats)
