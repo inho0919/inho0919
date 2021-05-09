@@ -1,29 +1,26 @@
 <h3><b>&#127891; Education</b></h3>
 - Gwangnam Highschool (03.2011 - 02.2014)
-<p>
+<br>
 - Kangwon National University (03.2015 - Present)
  : Computer Engineering / German Literature
-
 <p>
 <p>
 
 <h3><b>&#128187; Internship</b></h3>
 - Softzen (06.2019 - 08.2019)
-<p>
+<br>
 - KIST (12.2019 - 02.2020)
-<p>
+<br>
 - 1778Tech (12.2020 - 03.2021)
-
 <p>
 <p>
 
 <h3><b>&#128215; Language</b></h3>
 - Korean
-<p>
+<br>
 - English
-<p>
+<br>
 - Deutsch
-
 <p>
 <p>
 
