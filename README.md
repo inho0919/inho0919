@@ -2,7 +2,7 @@
  &nbsp; - Gwangnam Highschool (03.2011 - 02.2014)
 <br>
  &nbsp; - Kangwon National University (03.2015 - Present)
-  &nbsp; &nbsp; : Computer Engineering / German Literature
+  : Computer Engineering / German Literature
 <p>
 <p>
 
