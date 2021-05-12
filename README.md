@@ -104,6 +104,7 @@
 <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black"/></a>&nbsp
 <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=Wordpress&logoColor=black"/></a>&nbsp
+<img src="https://img.shields.io/badge/Wix-0C6EFC?style=flat-square&logo=Wix&logoColor=black"/></a>&nbsp
 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 
 
