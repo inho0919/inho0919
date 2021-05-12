@@ -33,7 +33,6 @@
   <th>Server (SW)</th>
   <th>Server (HW)</th>
   <th>DB</th>
-  <th>Port</th>
   <th>Client or Server</th>
  <th>Main Language</th>
    
@@ -42,7 +41,6 @@
    <td>Apache Tomcat</td>
    <td>Local Computer (Windows)</td>
    <td>Maria DB</td>
-   <td>8080</td>
    <td rowspan='4'>Server</td>
    <td>Java</td>
   </tr>
@@ -51,19 +49,16 @@
    <td rowspan='2'>Apache2</td>
    <td rowspan='3'>Naver Cloud Platform (Ubuntu)</td>
    <td>PostgreSQL</td>
-   <td>5050</td>
  <td>Python</td>
   </tr>
   <tr>
    <td>PHP</td>
    <td rowspan='2'>MySQL</td>
-   <td>80 (Basic)</td>
  <td>PHP</td>
   </tr>
   <tr>
    <td>Node.js</td>
    <td>NGINIX</td>
-   <td>5000</td>
  <td>Javascript</td>
   </tr>
   <tr>
@@ -71,7 +66,6 @@
    <td>-</td>
    <td>Single Board Computer (Ubuntu)</td>
    <td>SQLite3</td>
-   <td>5051</td>
    <td>Client</td>
    <td>Dart</td>
   </tr>
