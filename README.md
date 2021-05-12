@@ -23,10 +23,11 @@
  &nbsp; &#127472;&#127479; &nbsp;/ 
   &#127482;&#127480; &nbsp;/ 
  &#127465;&#127466;
-<p>
-<p>
+<br>
 
----
+<!--
+<h3><b>🧭 Activities</b></h3>
+-->
 
 <h3><b>&#128296; Tech Stack</b></h3>
 <p>
@@ -54,6 +55,63 @@
 <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black"/></a>&nbsp
 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
+
+<br>
+<br>
+
+
+---
+
+<h3><b>:computer: Runtime Info</b></h3>
+<table>
+  <th>Runtime</th>
+  <th>Server (SW)</th>
+  <th>Server (HW)</th>
+  <th>DB</th>
+  <th>Port</th>
+  <th>Client or Server</th>
+ <th>Main Language</th>
+   
+  <tr>
+   <td>Spring</td>
+   <td>Apache Tomcat</td>
+   <td>Local Computer (Windows)</td>
+   <td>Maria DB</td>
+   <td>8080</td>
+   <td rowspan='4'>Server</td>
+   <td>Java</td>
+  </tr>
+  <tr>
+   <td>Flask</td>
+   <td rowspan='2'>Apache2</td>
+   <td rowspan='3'>Naver Cloud Platform (Ubuntu)</td>
+   <td>PostgreSQL</td>
+   <td>5050</td>
+ <td>Python</td>
+  </tr>
+  <tr>
+   <td>PHP</td>
+   <td rowspan='2'>MySQL</td>
+   <td>80 (Basic)</td>
+ <td>PHP</td>
+  </tr>
+  <tr>
+   <td>Node.js</td>
+   <td>NGINIX</td>
+   <td>5000</td>
+ <td>Javascript</td>
+  </tr>
+  <tr>
+   <td>Flutter</td>
+   <td>-</td>
+   <td>Single Board Computer (Ubuntu)</td>
+   <td>SQLite3</td>
+   <td>5051</td>
+   <td>Client</td>
+   <td>Dart</td>
+  </tr>
+</table>
+<!-- 루비 항목 차후 추가 -->
 
 <br>
 <br>
