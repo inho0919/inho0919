@@ -58,7 +58,7 @@
   </tr>
   <tr>
    <td>Node.js</td>
-   <td>NGINIX</td>
+   <td>NGINX</td>
  <td>Javascript</td>
   </tr>
   <tr>
