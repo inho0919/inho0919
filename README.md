@@ -1,3 +1,4 @@
+<!--
 <h3><b>&#127891; Education</b></h3>
  &nbsp; - Gwangnam Highschool (03.2011 - 02.2014)
 <br>
@@ -26,7 +27,7 @@
 <br>
 
 ---
-
+-->
 <h3><b>:computer: Runtime Info</b></h3>
 <table>
   <th>Runtime</th>
