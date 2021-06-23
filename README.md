@@ -6,7 +6,6 @@
   : Computer Engineering / German Literature
 <p>
 <p>
-
 ---
  
 <h3><b>&#128187; Internship</b></h3>
