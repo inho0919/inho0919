@@ -30,6 +30,138 @@
 
 <p>A사 솔루션 개발자</p>
 
+
+<p>업로드 예정 목록</p>
+<pre>
+- BigQuery	
+- Google Data Studio	
+- Tensorflow	
+- Flutter	
+- Google Firebase	
+- React Native	
+- Android Studio	
+- ReactJS	
+- Angular	
+- VueJS	
+- Bootstrap	
+- Docker	
+- Github	
+- Kubernetes	
+- CodeIgniter	
+- Django	
+- ExpressJS	
+- Flask	
+- NestJS	
+- NodeJS	
+- Spring	
+- SpringBoot	
+- Selenium	
+- MyBatis	
+- pandas	
+- MariaDB	
+- ElasticSearch	
+- MongoDB	
+- MySQL	
+- PostgreSQL	
+- SQLite3	
+- Visual Basic	
+- C++	
+- Dart	
+- Java	
+- Javascript	
+- PHP	
+- Python	
+- Typescript	
+- HTML5	
+- CSS3	
+- Jinja2	
+- JSON	
+- Verilog	
+- VHDL	
+- Matlab	
+- Apache	
+- NGINX	
+- WSGI	
+- Tomcat	
+- Windows Server	
+- Linux - Cent OS	
+- Linux - Ubuntu	
+- Fritzing	
+- FreeCAD	
+- OrCAD	
+- KiCad	
+- Solidworks	
+- Arduino	
+- Raspberry PI	
+- Wordpress	
+- Tableau	
+- Wix	
+- Git	
+- SVN	
+- Google Analytics4 API	
+- Google Ads API	
+- Naver Search Ad API	
+- Kakao Moment API	
+- Kakao Keywords API	
+- Criteo API	
+- Meta API	
+- Twitter API	
+- Google API	
+- Naver API	
+- Kakao API	
+- Apple API	
+- Github API	
+- Playstation API	
+- Xbox API	
+- OpenAI API	
+- Appsflyer API	
+- Google Search Console	
+- Naver Search Advisor	
+- Daum Webmaster	
+- Google Tag Manager	
+- Google Analytics4	
+- Google Ads	
+- Meta Pixel	
+- Twitter Pixel	
+- Criteo	
+- Naver Script	
+- Mobon	
+- Taboola	
+- Tiktok Pixel	
+- TG Script	
+- Dable Script	
+- RTB House	
+- Teads Pixel	
+- Ace Counter	
+- Appsflyer	
+- Airbridge	
+- Google Firebase SDK	
+- Meta SDK	
+- Kakao SDK	
+- Adbrix	
+- Chrome Extension	
+- Telnet	
+- SSH	
+- Linux Shell	
+- Windows Batch	
+- Cain and Abel	
+- Wireshark	
+- Nmap	
+- Infection Monkey	
+- Fiddler	
+- iperf	
+- fprobe	
+- Cacti	
+- Snort	
+- Aircrack-ng	
+- OpenNMS	
+- SmokePing	
+- DBOT	
+- Senzing	
+- Mirkov4	
+</pre>
+
+
 <h3><b>:computer: Runtime Info</b></h3>
 <table>
   <th>Runtime</th>
