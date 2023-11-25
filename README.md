@@ -30,6 +30,8 @@
 
 <p>A사 솔루션 개발자</p>
 
+<p>VS Code, Putty, SecureCRT(가끔) 사용</p>
+
 
 <p>업로드 예정 목록</p>
 <pre>
