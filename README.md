@@ -1,3 +1,7 @@
+메인관리는 당분간 안함 
+
+좀 정리되면 메인관리
+
 <!--
 <h3><b>&#127891; Education</b></h3>
  &nbsp; - Gwangnam Highschool (03.2011 - 02.2014)
